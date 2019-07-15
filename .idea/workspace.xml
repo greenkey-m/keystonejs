@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="738ba667-4d94-469d-b7a3-13a5ca58c60c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/keystonejs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keystone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/Enquiry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/Gallery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/Post.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/PostCategory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/Y.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/bootstrap/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/bootstrap/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/bootstrap/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/bootstrap/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/bootstrap/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/logo-email.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/bootstrap/affix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/bootstrap/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/bootstrap/bootstrap-3.3.5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/bootstrap/bootstrap-3.3.5.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/bootstrap/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/bootstrap/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/bootstrap/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/bootstrap/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/bootstrap/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/bootstrap/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/bootstrap/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/bootstrap/scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/bootstrap/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/bootstrap/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/bootstrap/transition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/jquery/jquery-1.11.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/jquery/jquery-1.11.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/jquery/jquery-2.1.4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/jquery/jquery-2.1.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/_bootstrap-compass.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/_bootstrap-mincer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/_bootstrap-sprockets.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/_bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_alerts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_badges.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_breadcrumbs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_button-groups.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_close.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_code.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_component-animations.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_dropdowns.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_glyphicons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_input-groups.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_jumbotron.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_labels.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_modals.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_navs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_normalize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_pager.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_panels.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_popovers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_print.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_progress-bars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_responsive-embed.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_responsive-utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_scaffolding.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_theme.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_thumbnails.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/_wells.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_alerts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_background-variant.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_border-radius.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_center-block.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_gradients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_grid-framework.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_hide-text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_labels.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_nav-divider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_nav-vertical-align.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_opacity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_panels.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_progress-bar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_reset-filter.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_reset-text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_resize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_responsive-visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_size.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_tab-focus.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_table-row.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_text-emphasis.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_text-overflow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap/bootstrap/mixins/_vendor-prefixes.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/site.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/site/_layout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/site/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/emails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/middleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/views/blog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/views/contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/views/gallery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/views/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/views/post.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/emails/enquiry-notification.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/layouts/default.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/mixins/flash-messages.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/views/blog.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/views/contact.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/views/errors/404.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/views/errors/500.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/views/gallery.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/views/index.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/views/post.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/updates/0.0.1-admins.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="keystonejs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="keystonejs" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Roaming/npm/node_modules/vue-cli" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="738ba667-4d94-469d-b7a3-13a5ca58c60c" name="Default Changelist" comment="" />
+      <created>1563223982551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563223982551</updated>
+      <workItem from="1563223984182" duration="3295000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3295000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keystone.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
